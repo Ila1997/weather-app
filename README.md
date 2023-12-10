@@ -1,4 +1,4 @@
-# :computer: *WEATHER WEBSITE*
+# :computer: *WEATHER FORECAST WEBSITE*
 <div id="top"></div>
 <br />
 <div align="center">
@@ -8,7 +8,7 @@
 </div>
 
 ![Immagine](https://i.ibb.co/3NRGFDs/weather-app.png)
-# :link: *Project link: [My Weather Website](https://ila1997.github.io/weather-app/)*
+# :link: *Project link: [My Weather Forecast Website](https://ila1997.github.io/weather-app/)*
 
 You can also find it on netlify [here](https://ilaria-nuzzaco-weather-website.netlify.app/)
 
