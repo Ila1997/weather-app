@@ -14,7 +14,9 @@ You can also find it on netlify [here](https://ilaria-nuzzaco-weather-website.ne
 
 # *About the project:*
 This is a simple weather website, with API call, created with HTML, CSS and JavaScript.
+
 You can use it both from laptop and mobile.
+
 The cities weather facts come from an open weather API: [click here to check out the open Weather API Website](https://openweathermap.org/api)
 
 ______
